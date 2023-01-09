@@ -16,3 +16,6 @@ This was the runtimes for the code in 2018: </br>
 ![image](https://user-images.githubusercontent.com/33528884/211237477-b1802283-9726-4608-bd48-6938b7b5973c.png)
 
 ![VBA_challenge_2018](https://user-images.githubusercontent.com/33528884/211237486-e5dc8214-217b-462c-87cb-cb48683bd700.png)
+
+## Summary
+Refactoring code means to improve the overall structure of the code without fundamentally altering its overall job. For this reason, one obvious benefit of refactoring is that, at the end of the day, it is still the same code that has been worked on in the past. Another benefit is that refactoring does not require developers to maintain a copy as the refactoring happens on the original code. Refactoring also does not have to be done on the full code. If a developer is only working on a part of the code, they can choose to refactor just that part. Since the basic idea of refactoring is to change complex code into simpler code, one downside to this is that there will inevitably more code to handle and test. For instance, in this project, one nested for loop was broken down into three seperate for loops. Whilst each for loop is, by itself, simpler, there is also more code to manage now. 
